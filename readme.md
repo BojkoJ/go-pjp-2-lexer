@@ -12,7 +12,7 @@ Vstup může obsahovat následující symboly:
 
 - **identifikátory** - skládají se z posloupnosti písmen a číslic začínající písmenem.
 - **čísla** - tvořená posloupností desetinných číslic.
-- **operátory** - symboly `'+', '-', '\*' a '/'`
+- **operátory** - symboly `'+', '-', '*' a '/'`
 - **oddělovače** - symboly `'(', ')' a ';'`
 - **klíčová slova** - `div` a `mod`.
 
